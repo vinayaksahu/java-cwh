@@ -15,8 +15,8 @@ public class UserInput {
 
         //check input value integer or not
         System.out.println("Checking input key is integer or not :" + input.hasNextInt());
-        /*boolean isInteger = input.hasNextInt();
-        System.out.println("Checking input key is integer or not :" + isInteger);*/
+        /* boolean isInteger = input.hasNextInt();
+        System.out.println("Checking input key is integer or not :" + isInteger); */
     }
 }
 
