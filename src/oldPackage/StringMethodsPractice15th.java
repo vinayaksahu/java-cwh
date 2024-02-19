@@ -1,3 +1,5 @@
+package oldPackage;
+
 import java.util.Scanner;
 
 public class StringMethodsPractice15th {

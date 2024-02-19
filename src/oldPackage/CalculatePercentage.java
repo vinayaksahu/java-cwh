@@ -1,3 +1,5 @@
+package oldPackage;
+
 import java.util.Scanner;
 public class CalculatePercentage {
     public static void main(String[] args) {
