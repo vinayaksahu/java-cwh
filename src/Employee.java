@@ -1,4 +1,5 @@
 import MyPackage1.MyClass1;
+import Package2.Pakage2Class1;
 class ByteXL {
     static int EmpId = 131;
     int salary = 28000;
@@ -17,5 +18,8 @@ public class Employee {
         //MyClass1.print();
         MyClass1 obj1 = new MyClass1();
         obj1.print();
+
+        Pakage2Class1 obj2 = new Pakage2Class1();
+        obj2.print();
     }
 }
